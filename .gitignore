@@ -1,0 +1,19 @@
+# Node.js 의존성 디렉토리
+node_modules/
+
+
+# 환경 설정 파일 (API 키 등 포함)
+.env
+
+# 로그 파일
+*.log
+
+# Vim 임시 파일
+*.swp
+
+# npm 패키지 관리자 잠금 파일 (일부 프로젝트에서는 필요할 수 있음)
+package-lock.json
+
+# OS별 임시 파일 (macOS, Windows 등)
+.DS_Store
+Thumbs.db
